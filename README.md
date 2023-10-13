@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Part of:</h3>
   <img width="150"src="https://github.com/ahmfaiz/wire-scraper/blob/main/wire-logo-rounded-small.png" alt="wire-logo" />
-  <h1>The <a href="https://github.com/dinesh4112/wire-extension=">WIRE</a> Project</h1>
+  <h1>The <a href="https://github.com/ahmfaiz?tab=repositories&q=wire&type=&language=&sort=">WIRE</a> Project</h1>
   <p>
     Web Info Retrieval Engine
   </p>
@@ -17,3 +17,5 @@
 
 <h1>Web Scraper</h1>
 
+# Contributors
+[Dinesh Das](https://github.com/dinesh4112)
