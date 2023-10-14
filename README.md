@@ -16,3 +16,6 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <h1>Web Scraper</h1>
+
+# Contributors
+[Dinesh Das](https://github.com/dinesh4112)
