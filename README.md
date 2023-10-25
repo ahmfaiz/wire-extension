@@ -19,3 +19,5 @@
 
 # Contributors
 [Dinesh Das](https://github.com/dinesh4112)
+
+[Mohd Tauheed Khan](https://github.com/Tauheed2000)
